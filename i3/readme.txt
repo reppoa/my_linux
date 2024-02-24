@@ -1,1 +1,1 @@
-This directory contains all relevant configurations for the i3 window manager.
+This directory contains all relevant configurations for my customized version of i3 window manager.
