@@ -1,0 +1,2 @@
+pacman -S ttf-jetbrains-mono-nerd 
+pacman -S ttf-font-awesome otf-font-awesome
