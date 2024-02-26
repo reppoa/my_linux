@@ -1,0 +1,3 @@
+pacman -S polybar
+
+copy config files to ~/.config/polybar/
